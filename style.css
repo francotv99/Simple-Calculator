@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+}
+.tabla{
+    margin-top: 10%;
+}
+.pantalla{
+    display: flex;
+    border-color: black;
+    width: 50px;
+
+
+}
+.result{
+  margin-left:2px;
+  width: 80px;
+
+}
+.content{
+    border-color: black;
+}
+
+.cal{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+.besp{
+    margin-left: 2px;
+}
